@@ -1,4 +1,4 @@
-# EagleCyberCrew DDoS Tool 
+
 This tool is using python3
 ## Installation
 
@@ -6,7 +6,7 @@ This tool is using python3
 
 ```bash
 git clone https://github.com/PlazaRomeo/L7.git
-cd ECC-DDoS
+cd L7
 ```
 
 ## Usage
@@ -14,4 +14,3 @@ cd ECC-DDoS
 ```
 python3 main.py (target)
 ```
-![Example usage](https://i.imgur.com/lLdC5m6.png "Example usage")
